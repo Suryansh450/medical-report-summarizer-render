@@ -1,0 +1,10 @@
+PyPDF2
+docx
+google
+langchain
+langchain_groq
+os
+pyngrok
+streamlit
+summarizer
+tempfile
